@@ -1,0 +1,23 @@
+{
+  "name": "anudeep.github.io",
+  "version": "1.0.0",
+  "description": "personal blog",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnudeepRachapalli/anudeep.github.io.git"
+  },
+  "author": "anudeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnudeepRachapalli/anudeep.github.io/issues"
+  },
+  "homepage": "https://github.com/AnudeepRachapalli/anudeep.github.io#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
